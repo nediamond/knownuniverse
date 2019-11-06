@@ -1,6 +1,5 @@
 <style>
 .logo {
-  display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 25em;
@@ -8,7 +7,6 @@
 }
   
 .pig {
-  display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 8em;
@@ -16,4 +14,4 @@
 }
 </style>
 
-<img src='./KINGPIG.png' onload='this.src="./KULOGO.png"' onclick='this.className="pig";this.src="./KINGPIG.png"' class='logo'>
+<img src='./KULOGO.png' onload='this.style.display="block"' onclick='this.style.display="none"; this.className="pig"; this.src="./KINGPIG.png"' class='logo'>
