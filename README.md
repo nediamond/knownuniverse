@@ -1,2 +1,2 @@
 # knownuniverse
-[ku-tees.com](ku-tees.com)
+[https://ku-tees.com](https://ku-tees.com)
